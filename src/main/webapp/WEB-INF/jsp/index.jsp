@@ -48,12 +48,12 @@
                     <ul>
                         <li>
                             <label for="usr" style=" font-size: 120%" >Usuario</label>
-                            <input type="text" name="usr" id="usuariol" placeholder="Enter user" required>
+                            <input type="text" name="usr" id="usuario" placeholder="Enter user" required>
 
                         </li>
                         <li>
                             <label for="pwd" style=" font-size: 120%"  >Contraseña</label>
-                            <input type="password" name="pw" class="form-control" id="pwdl" placeholder="Enter password" size="30"  required>
+                            <input type="password" name="pw" class="form-control" id="pwd" placeholder="Enter password" size="30"  required>
 
                         </li>
                         <li>
