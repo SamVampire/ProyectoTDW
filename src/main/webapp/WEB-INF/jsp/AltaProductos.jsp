@@ -64,10 +64,23 @@
                     <tr></tr>
                     <tr></tr>
                     <tr>
-                        <td> <label for="url" style=" font-size: 120%">URL </label></td>
-                        <td><input type="text" class="form-control" id="url" placeholder="Imagen de producto" size="30" required></td>
+                        <td> <label for="desc" style=" font-size: 120%">Descripción </label></td>
+                        <td><input type="text" class="form-control" id="desc" placeholder="Descripcion de producto" size="30" required></td>
                     </tr>
-                    
+                    <tr></tr>
+                    <tr></tr>
+                    <tr></tr>
+                    <tr>
+                        <td> <label for="precio" style=" font-size: 120%">Precio</label></td>
+                        <td><input type="text" class="form-control" id="precioP" placeholder="Precio de producto" size="30" required></td>
+                    </tr>
+                    <tr></tr>
+                    <tr></tr>
+                    <tr></tr>
+                    <tr>
+                        <td> <label for="existencencia" style=" font-size: 120%">Existencia </label></td>
+                        <td><input type="text" class="form-control" id="existencia" placeholder="Descripcion de producto" size="30" required></td>
+                    </tr>
                     <tr></tr>
                     <tr></tr>
                     <tr></tr>
@@ -90,29 +103,14 @@
 
 
                     </tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr>
-
-                        <td><label for="pago" style=" font-size: 120%"  >Forma de pago</label></td>
-                        <td><div class="select">
-                                <select name="OS"  >
-                                    <option value="1" selected="" >Seleccionar</option> 
-                                    <option value="2">Contado</option> 
-                                    <option value="3">Credito</option>
-                                   
-                                </select>
-                            </div></td>
-
-                    </tr>
+                   
                     <tr></tr>
                     <tr></tr>
                     <tr></tr>
                     
                     <tr>
 
-                        <td><label for="status" style=" font-size: 120%"  >Status</label></td>
+                        <td><label for="status" style=" font-size: 120%"  >Estatus</label></td>
                         <td><input type="text" class="form-control" id="status" placeholder="Status" size="30" required></td>
 
                     </tr>
