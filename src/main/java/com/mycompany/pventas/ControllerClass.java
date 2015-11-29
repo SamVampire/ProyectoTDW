@@ -45,5 +45,13 @@ public class ControllerClass {
         System.out.println("Inventario");
         return "ventas";
     }
+    
+    @RequestMapping(method = RequestMethod.GET, value = "/PaginaClientes.htm")
+        public String Cliente(Model modelo)
+    {
+        System.out.println("PgClientes");
+        return "Clientes";
+    }
+        
     }
 
