@@ -44,7 +44,7 @@
                 <p>Proporcionar usuario y contraseña</p>
                 <br>
 
-                <form class="contact_form" action="Paginaventas.htm" method="get" onsubmit="return validalogin()" >
+                <form class="contact_form" action="Inicio_Venta.htm" method="get" onsubmit="return validalogin()" >
                     <ul>
                         <li>
                             <label for="usr" style=" font-size: 120%" >Usuario</label>

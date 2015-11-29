@@ -22,4 +22,18 @@ public class IinicioVentaController {
         System.out.println("Alta cliente");
         return "index";
     }
+    
+    @RequestMapping(method = RequestMethod.GET, value = "/Inicio_Venta.htm")
+    public String InicioVentas(Model modelo)
+    {
+        System.out.println("Registro de ventas");
+        return "PaginaVentas";
+    }
+    
+    @RequestMapping(method = RequestMethod.GET, value = "/Mostrar_clientes.htm")
+    public String ShowClientes(Model modelo)
+    {
+        System.out.println("client");
+        return "ShowClient";
+    }
 }

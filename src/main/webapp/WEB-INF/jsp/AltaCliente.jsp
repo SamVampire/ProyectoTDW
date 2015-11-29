@@ -74,48 +74,42 @@
                     <tr></tr>
                     <tr>
 
-                        <td><label for="calle" style=" font-size: 120%"  >Calle</label></td>
-                        <td><input type="text" class="form-control" id="calle" placeholder="Calle" size="30" required></td>
-
-
-
-                    </tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr>
-
-                        <td><label for="colonia" style=" font-size: 120%"  >Colonia</label></td>
-                        <td><input type="text" class="form-control" id="colonia" placeholder="Colonia" size="30" required></td>
-
-                    </tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr>
-
-                        <td><label for="municipio" style=" font-size: 120%"  >Municipio</label></td>
-                        <td><input type="text" class="form-control" id="municipio" placeholder="Municipio" size="30" required></td>
-
-                    </tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr>
-
-                        <td><label for="CP" style=" font-size: 120%"  >Codigo Postal</label></td>
-                        <td><input type="number" class="form-control" id="CP" placeholder="Código Postal" size="30" required></td>
-
-                    </tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr></tr>
-                    <tr>
-
                         <td><label for="telefono" style=" font-size: 120%"  >Telefono</label></td>
                         <td><input type="number" class="form-control" id="telefono" placeholder="Telefono" size="30" required></td>
 
                     </tr>
+                    <tr></tr>
+                    <tr></tr>
+                    <tr></tr>
+                    
+                    
+                    
+                    <tr>
+                        <td><label for="emil" style=" font-size: 120%"  >E-mail</label></td>
+                        <td><input type="text" class="form-control" id="email" placeholder="E-mail" size="30" required></td>
+                    </tr>
+                    <tr></tr>
+                    <tr></tr>
+                    <tr></tr>
+                    
+                    
+                    
+                    <tr>
+                        <td><label for="rfc" style=" font-size: 120%"  >RFC</label></td>
+                        <td><input type="text" class="form-control" id="rfc" placeholder="RFC" size="30" required></td>
+                    </tr>
+                    <tr></tr>
+                    <tr></tr>
+                    <tr></tr>
+                    
+                    
+                    
+                    
+                    <tr>
+                        <td><label for="dr" style=" font-size: 120%"  >Direccion</label></td>
+                        <td><input type="text" class="form-control" id="email" placeholder="Direccion" size="30" required></td>
+                    </tr>
+                    
                     <tr></tr>
                     <tr></tr>
                     <tr></tr>
